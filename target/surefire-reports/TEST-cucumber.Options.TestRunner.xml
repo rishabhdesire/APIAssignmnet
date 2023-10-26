@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cucumber.Options.TestRunner" time="18.642" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Learning\Selenium\BMCAssignments\APIFramework\target\test-classes;C:\Learning\Selenium\BMCAssignments\APIFramework\target\classes;C:\Users\risha\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\risha\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\risha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\risha\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\risha\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\risha\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\risha\.m2\repository\io\rest-assured\rest-assured\5.3.2\rest-assured-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\risha\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\risha\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\risha\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\risha\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\risha\.m2\repository\io\rest-assured\json-path\5.3.2\json-path-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\risha\.m2\repository\io\rest-assured\rest-assured-common\5.3.2\rest-assured-common-5.3.2.jar;C:\Users\risha\.m2\repository\io\rest-assured\xml-path\5.3.2\xml-path-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.3\jackson-databind-2.15.3.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.3\jackson-annotations-2.15.3.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.3\jackson-core-2.15.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\risha\AppData\Local\Temp\surefire10436923711580475871\surefirebooter-20231026121016124_3.jar C:\Users\risha\AppData\Local\Temp\surefire10436923711580475871 2023-10-26T12-10-15_866-jvmRun1 surefire-20231026121016124_1tmp surefire_0-20231026121016124_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Learning\Selenium\BMCAssignments\APIFramework\target\test-classes;C:\Learning\Selenium\BMCAssignments\APIFramework\target\classes;C:\Users\risha\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\risha\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\risha\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\risha\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\risha\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\risha\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\risha\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\risha\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\risha\.m2\repository\io\rest-assured\rest-assured\5.3.2\rest-assured-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy\4.0.11\groovy-4.0.11.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy-xml\4.0.11\groovy-xml-4.0.11.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\risha\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\risha\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\risha\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\risha\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\risha\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\risha\.m2\repository\io\rest-assured\json-path\5.3.2\json-path-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\groovy\groovy-json\4.0.11\groovy-json-4.0.11.jar;C:\Users\risha\.m2\repository\io\rest-assured\rest-assured-common\5.3.2\rest-assured-common-5.3.2.jar;C:\Users\risha\.m2\repository\io\rest-assured\xml-path\5.3.2\xml-path-5.3.2.jar;C:\Users\risha\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.3\jackson-databind-2.15.3.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.3\jackson-annotations-2.15.3.jar;C:\Users\risha\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.3\jackson-core-2.15.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\risha"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Learning\Selenium\BMCAssignments\APIFramework"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\risha\AppData\Local\Temp\surefire10436923711580475871\surefirebooter-20231026121016124_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.7+8-LTS-224"/>
+    <property name="user.name" value="risha"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\risha\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\risha\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.7"/>
+    <property name="user.dir" value="C:\Learning\Selenium\BMCAssignments\APIFramework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\maven\apache-maven-3.9.5-bin\bin;C:\Users\risha\AppData\Local\Microsoft\WindowsApps;C:\Users\risha\AppData\Roaming\npm;C:\Users\risha\AppData\Local\Programs\Microsoft VS Code\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.7+8-LTS-224"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="Verify CreateBooking Api if user is able to succeefully place booking using create booking api." classname="Validating Create Booking API" time="7.413">
+    <system-out><![CDATA[
+@CreateBooking
+Scenario: Verify CreateBooking Api if user is able to succeefully place booking using create booking api. # src/test/java/features/RestfulBookerApp.feature:16
+4255
+  Given Add CreateBooking Payload with "TestFirst1" "TestLast1"                                           # stepDefinations.StepDefination.add_palce_payload(java.lang.String,java.lang.String)
+HTTP/1.1 200 OK
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698302422&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=kPqFzvtZxIsJkaDQ6bUeRpWCiR7Rye8KyAYp%2Bo%2FcDBc%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698302422&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=kPqFzvtZxIsJkaDQ6bUeRpWCiR7Rye8KyAYp%2Bo%2FcDBc%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 202
+Etag: W/"ca-eb8dHzTkkGYU4wWSxcaCSiAGA4E"
+Date: Thu, 26 Oct 2023 06:40:22 GMT
+Via: 1.1 vegur
+
+{
+    "bookingid": 4270,
+    "booking": {
+        "firstname": "TestFirst1",
+        "lastname": "TestLast1",
+        "totalprice": 1000,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": null
+    }
+}
+  When user calls "CreateBookingAPI" with "Post" http request                                             # stepDefinations.StepDefination.user_calls_with_post_http_request(java.lang.String,java.lang.String)
+  Then the api calls got success with status code 200                                                     # stepDefinations.StepDefination.the_api_calls_got_success_with_status_code(java.lang.Integer)
+  And "firstname" is response body should be "TestFirst1" for "Create" http request                       # stepDefinations.StepDefination.is_response_body_should_be(java.lang.String,java.lang.String,java.lang.String)
+  And "lastname" is response body should be "TestLast1" for "Create" http request                         # stepDefinations.StepDefination.is_response_body_should_be(java.lang.String,java.lang.String,java.lang.String)
+]]></system-out>
+  </testcase>
+  <testcase name="Verify GetBooking Api if user is able to succeessfully get booking using create booking api." classname="Validating Create Booking API" time="4.463">
+    <system-out><![CDATA[
+@GetBooking
+Scenario: Verify GetBooking Api if user is able to succeessfully get booking using create booking api. # src/test/java/features/RestfulBookerApp.feature:27
+4302
+  Given Add CreateBooking Payload with "TestFirst1" "TestLast1"                                        # stepDefinations.StepDefination.add_palce_payload(java.lang.String,java.lang.String)
+HTTP/1.1 200 OK
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698302426&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=MchKL8GHBJLd3gvcLTmDneXlRG5E2YIcQU6JENV0E0s%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698302426&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=MchKL8GHBJLd3gvcLTmDneXlRG5E2YIcQU6JENV0E0s%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 202
+Etag: W/"ca-7ryKWSX+c5b7NXOjNF56HLUs2qM"
+Date: Thu, 26 Oct 2023 06:40:26 GMT
+Via: 1.1 vegur
+
+{
+    "bookingid": 4316,
+    "booking": {
+        "firstname": "TestFirst1",
+        "lastname": "TestLast1",
+        "totalprice": 1000,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": null
+    }
+}
+  When user calls "CreateBookingAPI" with "Post" http request                                          # stepDefinations.StepDefination.user_calls_with_post_http_request(java.lang.String,java.lang.String)
+BookingID Is: 4302
+HTTP/1.1 200 OK
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698302428&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=cK00zzc7BD6%2BcwvBDm3ZXLDNe8nQoK5BU8Eo5lSOTc8%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698302428&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=cK00zzc7BD6%2BcwvBDm3ZXLDNe8nQoK5BU8Eo5lSOTc8%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 173
+Etag: W/"ad-j/bNgm02k+ja81920D5qtdZe2VI"
+Date: Thu, 26 Oct 2023 06:40:28 GMT
+Via: 1.1 vegur
+
+{
+    "firstname": "TestFirst1",
+    "lastname": "TestLast1",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+    },
+    "additionalneeds": null
+}
+  When user calls "GetBookingAPI" with "Get" http request                                              # stepDefinations.StepDefination.user_calls_with_post_http_request(java.lang.String,java.lang.String)
+  Then the api calls got success with status code 200                                                  # stepDefinations.StepDefination.the_api_calls_got_success_with_status_code(java.lang.Integer)
+  And "firstname" is response body should be "TestFirst1" for "Get" http request                       # stepDefinations.StepDefination.is_response_body_should_be(java.lang.String,java.lang.String,java.lang.String)
+  And "lastname" is response body should be "TestLast1" for "Get" http request                         # stepDefinations.StepDefination.is_response_body_should_be(java.lang.String,java.lang.String,java.lang.String)
+]]></system-out>
+  </testcase>
+  <testcase name="Verify DeleteBooking Api if user is able to succeefully Delete booking using create booking api." classname="Validating Create Booking API" time="5.795">
+    <system-out><![CDATA[
+@DeleteBooking
+Scenario: Verify DeleteBooking Api if user is able to succeefully Delete booking using create booking api. # src/test/java/features/RestfulBookerApp.feature:30
+4348
+  Given Add CreateBooking Payload with "TestFirst1" "TestLast1"                                            # stepDefinations.StepDefination.add_palce_payload(java.lang.String,java.lang.String)
+HTTP/1.1 200 OK
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698302431&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=9Y1PejHHAEKhwU8uKFR6TTe7pVIms1ZcJtcy9Td3RZc%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698302431&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=9Y1PejHHAEKhwU8uKFR6TTe7pVIms1ZcJtcy9Td3RZc%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 202
+Etag: W/"ca-6ZcFJ1SdxuCxHrq9ACzw+8DSro0"
+Date: Thu, 26 Oct 2023 06:40:31 GMT
+Via: 1.1 vegur
+
+{
+    "bookingid": 4362,
+    "booking": {
+        "firstname": "TestFirst1",
+        "lastname": "TestLast1",
+        "totalprice": 1000,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": null
+    }
+}
+  When user calls "CreateBookingAPI" with "Post" http request                                              # stepDefinations.StepDefination.user_calls_with_post_http_request(java.lang.String,java.lang.String)
+Request method:	POST
+Request URI:	https://restful-booker.herokuapp.com/auth
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "username": "admin",
+    "password": "password123"
+}
+HTTP/1.1 200 OK
+Server: Cowboy
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 27
+Etag: W/"1b-Yxh8LKrxJpVFqsR7CmrRYumLkPo"
+Date: Thu, 26 Oct 2023 06:40:32 GMT
+Via: 1.1 vegur
+
+{
+    "token": "a6e2eb70ff94886"
+}
+a6e2eb70ff94886before
+token=a6e2eb70ff94886
+  Given Get Token and authorize access to DeleteAPI                                                        # stepDefinations.StepDefination.authenticateApi()
+HTTP/1.1 201 Created
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698302434&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=XyFPiaLR6b%2BiMyK6xFgsLGBGUj8g9r48mIU3Io7RzxQ%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698302434&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&s=XyFPiaLR6b%2BiMyK6xFgsLGBGUj8g9r48mIU3Io7RzxQ%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Content-Type: text/plain; charset=utf-8
+Content-Length: 7
+Etag: W/"7-rM9AyJuqT6iOan/xHh+AW+7K/T8"
+Date: Thu, 26 Oct 2023 06:40:34 GMT
+Via: 1.1 vegur
+
+Created
+  When user calls "DeleteBookingAPI" with "Delete" http request                                            # stepDefinations.StepDefination.user_calls_with_post_http_request(java.lang.String,java.lang.String)
+  Then the api calls got success with status code 201                                                      # stepDefinations.StepDefination.the_api_calls_got_success_with_status_code(java.lang.Integer)
+]]></system-out>
+  </testcase>
+</testsuite>

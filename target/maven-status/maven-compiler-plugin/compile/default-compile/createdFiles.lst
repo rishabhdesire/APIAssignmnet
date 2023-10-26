@@ -1,0 +1,5 @@
+pojo\LoginResponse.class
+pojo\CheckInOutDates.class
+pojo\CreateBookingResponse.class
+pojo\CreateBooking.class
+pojo\LoginRequest.class
