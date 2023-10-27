@@ -35,6 +35,9 @@ This Framework is build for Rest API Automation testing Using Cucumber framework
 - The Default HTML reports are very descriptive with good statistics reports that can be integrated with Jenkins after test execution to have summary status of each deployment. located at:target/cucumber-reports.html
 - Using extra Plugin: Customised Multiple HTML Report Located at: target/cucumber-html-reports/*.html
 
+![image](https://github.com/rishabhdesire/APIFramework/assets/74549534/d6e83971-0a83-4686-ae54-bcb65f2af189)
+
+
 # Log Files:
 Log file is getting generated to trace the logs located at: target/logging.txt
   
