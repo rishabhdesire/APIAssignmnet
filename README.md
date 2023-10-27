@@ -37,6 +37,9 @@ This Framework is build for Rest API Automation testing Using Cucumber framework
 
 ![image](https://github.com/rishabhdesire/APIFramework/assets/74549534/d6e83971-0a83-4686-ae54-bcb65f2af189)
 
+![image](https://github.com/rishabhdesire/APIFramework/assets/74549534/ca4a202f-4339-49cf-add4-073dda8cf45a)
+
+
 
 # Log Files:
 Log file is getting generated to trace the logs located at: target/logging.txt
